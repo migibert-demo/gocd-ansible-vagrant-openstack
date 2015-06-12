@@ -1,0 +1,4 @@
+- name: gocd
+  hosts: all
+  roles:
+    - gocd
